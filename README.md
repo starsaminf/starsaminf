@@ -1,6 +1,6 @@
 <img align='right' src='https://github.com/samuelloza/samuelloza/blob/master/magic.gif' width='150"'>  
 
-# Archive ?
+# Archive
 <hr>
 This was my favorite account since I started at the University until now.  
 I decided to change my username because "starsaminf" didn't sound serious enough, haha.  
