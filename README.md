@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/starsaminf/starsaminf/blob/master/magic.gif' width='150"'>  
+<img align='right' src='https://github.com/samuelloza/samuelloza/blob/master/magic.gif' width='150"'>  
 
 
 # Why StarSamInf ?
