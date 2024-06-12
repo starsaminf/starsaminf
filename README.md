@@ -1,19 +1,11 @@
 <img align='right' src='https://github.com/samuelloza/samuelloza/blob/master/magic.gif' width='150"'>  
 
-
-# Why StarSamInf ?
-
-**Star** = StarCraft 🛰️   
-**Sam**  = My name 🤠  
-**Inf**  = Informatics 💻
-
+# Archive ?
 <hr>
 This was my favorite account since I started at the University until now.  
 I decided to change my username because "starsaminf" didn't sound serious enough, haha.  
   
 My first username was "starsaminf," and it will always hold a special place in my heart.
-  
-My current account is:
 
 My current account is:
 [https://github.com/samuelloza](https://github.com/samuelloza)
@@ -22,6 +14,15 @@ You can also contact me at:
 [samuel.loza26@gmail.com](mailto:samuel.loza26@gmail.com)
 
 <br>
+
+
+# Why StarSamInf ?
+
+**Star** = StarCraft 🛰️   
+**Sam**  = My name 🤠  
+**Inf**  = Informatics 💻
+
+
 
 - 🔭 I’m currently working on J
 - 💬 Ask me about Languages programing, php, c++, java, js, dotnet.
